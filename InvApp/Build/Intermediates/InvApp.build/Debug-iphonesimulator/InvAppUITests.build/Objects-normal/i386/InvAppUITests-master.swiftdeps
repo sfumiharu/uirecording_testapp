@@ -1,0 +1,4 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.42.3 clang-700.0.53.3)"
+options: "211a96b28e18673d8448a4607cf1b966"
+inputs: 
+- "/Users/fumiharu/Desktop/InvApp/InvAppUITests/InvAppUITests.swift"

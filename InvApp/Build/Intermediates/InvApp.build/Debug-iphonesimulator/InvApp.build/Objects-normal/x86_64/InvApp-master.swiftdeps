@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.42.3 clang-700.0.53.3)"
+options: "05dfe976a27dbb4efb8abf3a124bf157"
+inputs: 
+- "/Users/fumiharu/Desktop/InvApp/InvApp/ViewController.swift"
+- "/Users/fumiharu/Desktop/InvApp/InvApp/AppDelegate.swift"
